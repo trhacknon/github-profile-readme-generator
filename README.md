@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://trhacknon.github.io/gh-profile-readme-generator">
+  <a href="https://trhacknon.github.io/github-profile-readme-generator">
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
 </p>
