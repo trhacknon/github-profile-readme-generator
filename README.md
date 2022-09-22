@@ -31,15 +31,15 @@
 <p align="center"><img src="./src/images/github-profile-readme-generator.gif" alt="github-profile-readme-generator gif" /></p>
 
 <p align="center">
-    <a href="https://trhacknon.github.io/gh-profile-readme-generator" target="blank">View Demo</a>
+    <a href="https://trhacknon.github.io/profile-readme-generator" target="blank">View Demo</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/trhacknon/github-profile-readme-generator/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/trhacknon/github-profile-readme-generator/issues/new/choose">Request Feature</a>
 </p>
 
 <p align="center">
-<i>Loved the tool? Please consider <a href="https://paypal.me/rahuldkjain/10">donating</a>  💸 to help it improve!</i>
+<i>Loved the tool? Please consider <a href="https://paypal.me//10">donating</a>  💸 to help it improve!</i>
 </p>
 
 <p align="center">
